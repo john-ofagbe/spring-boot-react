@@ -231,7 +231,7 @@ function App() {
 						rel="noopener noreferrer"
 						target="_blank"
 						href="https://emamuzo.com">
-						Emamuzo Technologies
+						Emamuzo Technologies LLC
 					</a>
 				</Divider>
 			</Footer>
