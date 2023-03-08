@@ -223,7 +223,7 @@ function App() {
 			</Content>
 			<Footer style={{textAlign: 'center'}}>
 				<Image
-					width={70}
+					width={75}
 					src="https://raw.githubusercontent.com/john-ofagbe/spring-boot-react/master/emamuzo-logo.png"
 				/>
 				<Divider>
